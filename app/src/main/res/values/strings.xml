@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="repo">Repositories</string>
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Follower</string>
+    <string name="insert_user">Insert Username</string>
+    <string name="username">sidiqpermana</string>
+    <string name="search">search</string>
+    <string name="detail">Details</string>
+    <string name="mode">Dark Mode</string>
+    <string name="fab">Add to set favorite</string>
+
+    <string name="data404">Data Not Found</string>
+    <string name="rvUser">Show The List</string>
+
+    <string name="menu_fav">Favorites Menu</string>
+    <string name="menu_set">Setting</string>
+</resources>
+
+

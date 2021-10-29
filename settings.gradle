@@ -1,0 +1,11 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        //noinspection GrDeprecatedAPIUsage
+        mavenCentral() // Warning: this com.dicoding.submission1_fundamentalandroid.repository is going to shut down soon
+    }
+}
+rootProject.name = "Submission1_FundamentalAndroid"
+include ':app'
